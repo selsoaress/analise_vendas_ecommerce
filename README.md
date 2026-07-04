@@ -1,4 +1,4 @@
-# 🛒 Análise Exploratória de Dados (EDA) - E-commerce
+# Análise Exploratória de Dados (EDA) - E-commerce
 
 Este repositório contém o pipeline de Análise Exploratória de Dados (EDA) para a base de dados de vendas do e-commerce. O objetivo principal deste projeto é transformar dados brutos de transações em insights estratégicos para apoiar a tomada de decisão das equipes de precificação, marketing e logística.
 
@@ -6,7 +6,7 @@ As análises podem ser verificadas em formato HTML no diretório reports.
 
 ---
 
-## 🎯 Perguntas de Negócio Respondidas
+## Perguntas de Negócio Respondidas
 
 O projeto foi estruturado para responder a três dores latentes da operação:
 
@@ -24,7 +24,7 @@ O projeto foi estruturado para responder a três dores latentes da operação:
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 O projeto foi desenvolvido em ambiente isolado utilizando:
 * **Linguagem:** Python 3.14+
